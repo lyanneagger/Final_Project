@@ -1,1 +1,14 @@
-# Final_Project
+# Final Project Self Assessment
+
+### Self-Assessment
+
+Throughout this project, I was able to create the framework of the presentation and did the majority of the creation of the dashboard in Tableau. I was also able to contribute to cleaning both the original data and the second sets of data when we restarted. My strengths and job searches are concentrated in visualizations, so my focus was in this area going into the project. I was also very upfront with the team initially that Machine Learning is a topic I am less comfortable in, so I'm thankful that they were comfortable picking up that part of the topic.
+
+### Team Assessment
+
+Overall, when the team was present, we were able to work together well. We had great chemistry and were very comfortable being upfront about where we're most comfortable, realistic time constraints, and ability to coordinate times to meet and work together. The main hurdle we encountered was the week we spent time digging into timeseries and focusing on our Zillow data set, when we had one group member not show up to class that Monday and then another didn't show up on Wednesday. Our group initially started as 5 people, and one never showed or communicated to begin with, so dropping down to 2 members when we should have been halfway through was challenging. The two of us that were there were presented with the possibility of splitting the group and starting our own project from scratch, so that weekend was filled with pouring our time into our brand new data set and making up that amount of time. We also spent a fair amount of time exploring individual projects to pursue in the case that the team would be split. Once the other two team members came back from their personal issues, we were able to recover our project along the same lines as our initial plans, with slightly altered requirements of the project. The instructor and one particular TA were heavily involved in both our hurdles with attendance and involvement, and the full restart of the project roughly 11 days before the final presentation.
+
+
+### Project Summary
+
+Our project was an Exploratory Data Analysis in Fair Market Rent prices set by the US Department of Housing and Urban Development (HUD). Much of the data and analysis available surrounds real estate sales and pricing trends as well as features that may have an effect on pricing, but as millenials are more and more in debt and real estate prices increase, many people within our age group are renting. Initially, we had intended to create a machine learning model that created a predictive model to predict rent prices, however we weren't able to find data sets large enough to accurately be able to predict that, so the focus became digging in to the existing data to identify trends, outliers, and comparisons in Tableau Public.
